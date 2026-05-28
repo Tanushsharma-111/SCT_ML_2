@@ -42,5 +42,10 @@ The project generates:
 * Elbow Method graph
 * Customer segmentation visualization
 * Cluster-wise customer analysis
+* ### Elbow Method
+![Elbow](elbow_output.png)
+
+### Cluster Visualization
+![Clusters](cluster_output.png)
 
 
